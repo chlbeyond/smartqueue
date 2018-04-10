@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\login_pwd_select.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi\\login_pwd_select.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\number_bg_normal.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi\\number_bg_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\login_pwd_normal.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi\\login_pwd_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_bg.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi\\main_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\number_bg_normal.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi\\number_bg_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\number_bg_select.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi\\number_bg_select.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\login_pwd_normal.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi\\login_pwd_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7e287b687f99268edf07475348d0db4ab8dd8d94\\output\\res\\drawable-mdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_full_open_on_phone.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-mdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_bg.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi\\main_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\login_pwd_select.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi\\login_pwd_select.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\number_bg_select.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi\\number_bg_select.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

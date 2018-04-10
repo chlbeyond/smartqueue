@@ -1,0 +1,538 @@
+[
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\local_etc.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\local_etc.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\admin.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\admin.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\order_op_log_select.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\order_op_log_select.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\operation_log_normal.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\operation_log_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\cloud.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\cloud.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\call_dish_select.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\call_dish_select.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\number_black_bg_select.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\number_black_bg_select.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\change_psd.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\change_psd.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\pull_dish_normal.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\pull_dish_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\keybord.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\keybord.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\pull_dish_select.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\pull_dish_select.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\new_combine_table.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\new_combine_table.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\reprint_order.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\reprint_order.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\number_delete_pad.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\number_delete_pad.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\print_error.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\print_error.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\order_with_self.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\order_with_self.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\print.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\print.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\orderlist_reduce_normal.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\orderlist_reduce_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\number_back_pad.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\number_back_pad.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\cancel_select.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\cancel_select.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\number_bg_normal.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\number_bg_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\close.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\close.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\free_dish_select.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\free_dish_select.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\back.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\back.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\operation_log_normal.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\operation_log_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\daysettle.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\daysettle.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\new_empty_table.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\new_empty_table.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\payment_number_bg_sure_normal.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\payment_number_bg_sure_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\number_black_bg_select.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\number_black_bg_select.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\about.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\about.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\reprint_order_select.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\reprint_order_select.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\today_bill_normal.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\today_bill_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\slodout_manager.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\slodout_manager.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\orderlist_add_normal.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\orderlist_add_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\admin.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\admin.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\preprint_table.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\preprint_table.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\free_dish_normal.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\free_dish_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\number_bg_select.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\number_bg_select.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\number_black_normal.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\number_black_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\free_dish_normal.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\free_dish_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\operation_log_select.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\operation_log_select.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\number_black_normal.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\number_black_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\payment_number_bg_sure_normal.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\payment_number_bg_sure_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\order_with_all.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\order_with_all.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\today_bill_select.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\today_bill_select.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\payment_number_bg_normal.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\payment_number_bg_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\back.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\back.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\open_cashbox.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\open_cashbox.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\close.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\close.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\orderlist_reduce_select.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\orderlist_reduce_select.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\order_op_log_select.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\order_op_log_select.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\return_dish_select.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\return_dish_select.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\cloud.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\cloud.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\ic_menu.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\ic_menu.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\pull_dish_select.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\pull_dish_select.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\return_dish_normal.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\return_dish_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\orderlist_delete_select.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\orderlist_delete_select.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\reprint_order.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\reprint_order.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\search_dish.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\search_dish.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\pull_dish_normal.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\pull_dish_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\daysettle.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\daysettle.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\change_dish_select.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\change_dish_select.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\number_bg_normal.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\number_bg_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\business_analysis_select.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\business_analysis_select.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\payment_number_bg_select.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\payment_number_bg_select.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\call_dish_select.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\call_dish_select.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\orderlist_add_normal.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\orderlist_add_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\cloud_error.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\cloud_error.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\change_dish_normal.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\change_dish_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\handover.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\handover.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\ic_menu.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\ic_menu.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\print_error.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\print_error.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\open_cashbox.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\open_cashbox.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\orderlist_reduce_normal.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\orderlist_reduce_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\order_op_log.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\order_op_log.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\preprint_table.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\preprint_table.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\sawtooth.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\sawtooth.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\keyboard_clear.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\keyboard_clear.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\arrows.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\arrows.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\reprint_order_select.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\reprint_order_select.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\about.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\about.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\reprint_table_bill.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\reprint_table_bill.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\keyboard_delete.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\keyboard_delete.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\business_analysis_normal.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\business_analysis_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\reprint_table_bill.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\reprint_table_bill.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\using_table.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\using_table.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\orderlist_reduce_select.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\orderlist_reduce_select.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\today_bill_normal.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\today_bill_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\call_dish_normal.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\call_dish_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\back_to_table.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\back_to_table.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\orderlist_delete_normal.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\orderlist_delete_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\slodout_manager.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\slodout_manager.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\operation_log_select.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\operation_log_select.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\change_psd.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\change_psd.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\orderlist_delete_select.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\orderlist_delete_select.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\print.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\print.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\order_op_log.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\order_op_log.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\reprint_bill.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\reprint_bill.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\sawtooth.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\sawtooth.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\return_dish_normal.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\return_dish_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\payment_number_bg_select.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\payment_number_bg_select.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\keyboard_delete.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\keyboard_delete.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\order_delete.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\order_delete.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\order_with_self.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\order_with_self.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\keyboard_clear.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\keyboard_clear.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\number_back_pad.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\number_back_pad.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\business_analysis_select.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\business_analysis_select.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\free_dish_select.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\free_dish_select.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\using_table.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\using_table.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\handover.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\handover.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\today_bill_select.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\today_bill_select.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\new_combine_table.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\new_combine_table.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\order_with_all.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\order_with_all.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\reprint_bill.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\reprint_bill.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\new_empty_table.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\new_empty_table.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\number_delete_pad.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\number_delete_pad.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\local_etc.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\local_etc.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\payment_number_bg_normal.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\payment_number_bg_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\arrows.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\arrows.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\order_delete.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\order_delete.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\cancel_select.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\cancel_select.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\back_to_table.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\back_to_table.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\call_dish_normal.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\call_dish_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\change_dish_select.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\change_dish_select.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\orderlist_add_select.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\orderlist_add_select.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\search_dish.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\search_dish.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\number_bg_select.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\number_bg_select.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\change_dish_normal.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\change_dish_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\orderlist_delete_normal.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\orderlist_delete_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\keybord.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\keybord.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\orderlist_add_select.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\orderlist_add_select.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\cloud_error.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\cloud_error.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\business_analysis_normal.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\business_analysis_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-1920x1032\\return_dish_select.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-mdpi-1920x1032\\return_dish_select.png"
+    }
+]

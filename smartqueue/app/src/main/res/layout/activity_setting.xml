@@ -1,0 +1,256 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#e5ebf0"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#2B343D"
+        android:gravity="center" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/textView_setting_back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:onClick="clickButton"
+                android:text="返回"
+                android:textColor="#fff"
+                android:textSize="@dimen/main_activity_freetable" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/editmealpeoplecount_magin_left"
+                android:text="配置管理"
+                android:textColor="#fff"
+                android:textSize="@dimen/main_activity_freetable" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="12" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/editmealpeoplecount_magin_left"
+                android:text="高级配置"
+                android:textSize="@dimen/main_activity_freetable" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="@dimen/editmealpeoplecount_magin_left"
+            android:layout_marginTop="10dp"
+            android:layout_weight="8"
+            android:background="@drawable/main_left_background"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"
+                    android:layout_marginTop="@dimen/editmealpeoplecount_magin_left"
+                    android:background="#dedee0"
+                    android:orientation="vertical" >
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textView6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/editmealpeoplecount_magin_left"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="@dimen/editmealpeoplecount_magin_left"
+                    android:text="外显配置"
+                    android:textColor="#2b343b"
+                    android:textSize="@dimen/main_activity_freetable" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+
+                    <Button
+                        android:id="@+id/textView_setting_show_video"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="30dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button_selector"
+                        android:onClick="clickButton"
+                        android:text="显示视频"
+                        android:textColor="#fff"
+                        android:textSize="@dimen/listview_item_call_text" />
+
+                    <Button
+                        android:id="@+id/textView_setting_show_picture"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="30dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button_selector"
+                        android:onClick="clickButton"
+                        android:text="显示图片"
+                        android:textColor="#fff"
+                        android:textSize="@dimen/listview_item_call_text" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp" >
+
+                    <Button
+                        android:id="@+id/textView_setting_next_video"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="30dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button_selector"
+                        android:onClick="clickButton"
+                        android:text="视频切换"
+                        android:textColor="#fff"
+                        android:textSize="@dimen/listview_item_call_text" />
+
+                    <Button
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="30dp"
+                        android:layout_weight="1"
+                        android:onClick="clickButton"
+                        android:text="显示图片"
+                        android:textColor="#fff"
+                        android:textSize="@dimen/listview_item_call_text"
+                        android:visibility="invisible" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"
+                    android:layout_marginTop="@dimen/editmealpeoplecount_magin_left"
+                    android:background="#dedee0"
+                    android:orientation="vertical" >
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textView7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="@dimen/editmealpeoplecount_magin_left"
+                    android:text="全局配置"
+                    android:textColor="#2b343b"
+                    android:textSize="@dimen/main_activity_freetable" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"
+                    android:layout_marginTop="@dimen/editmealpeoplecount_magin_left"
+                    android:background="#dedee0"
+                    android:orientation="vertical" >
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/editmealpeoplecount_magin_left" >
+
+                    <Button
+                        android:id="@+id/textView_setting_picture_call"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="30dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button_selector"
+                        android:onClick="clickButton"
+                        android:text="叫号次数"
+                        android:textColor="#fff"
+                        android:textSize="@dimen/listview_item_call_text" />
+
+                    <Button
+                        android:id="@+id/textView_setting_print"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="30dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button_selector"
+                        android:onClick="clickButton"
+                        android:text="选择打印机"
+                        android:textColor="#fff"
+                        android:textSize="@dimen/listview_item_call_text" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/textView_setting_picture_build_number"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="30dp"
+                        android:layout_marginTop="@dimen/editmealpeoplecount_magin_left"
+                        android:text="版本号"
+                        android:textColor="#2b343b"
+                        android:textSize="@dimen/main_activity_freetable" />
+
+                    <TextView
+                        android:id="@+id/textView_setting_version"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="30dp"
+                        android:layout_marginTop="@dimen/editmealpeoplecount_magin_left"
+                        android:text="TextView"
+                        android:textSize="@dimen/listview_item_call_text" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

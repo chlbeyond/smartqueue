@@ -1,0 +1,60 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="80dp"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/textView_history_number"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:text="A5"
+            android:textColor="#16a4fa"
+            android:textSize="30sp" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingRight="20dp" >
+
+            <TextView
+                android:id="@+id/textView_history_peoplecount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="5人"
+                android:textColor="#8091a1"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView_history_currentstate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="已就餐"
+                android:textColor="#37c180"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textView_history_waittime"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="等待101分钟"
+            android:textColor="#b3b5b6"
+            android:textSize="20dp" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <solid android:color="#16a4fa" />
+
+    <corners android:radius="@dimen/main_activity_table_textsize_radius" />
+
+    <padding
+        android:bottom="1dp"
+        android:left="@dimen/tab_number_magin_left_right"
+        android:right="@dimen/tab_number_magin_left_right"
+        android:top="1dp" />
+
+</shape>

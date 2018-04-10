@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/administrator/smartqueue/smartqueue/app/build/intermediates/exploded-aar/homhomlin.lib/apsts/1.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4c8abf56bea29a6a029f78a854f8fe0c942e7e5d">
+        <dex dex="/Users/administrator/smartqueue/smartqueue/app/build/intermediates/pre-dexed/debug/homhomlin.lib-apsts-1.4.0_e7d0cd37a945017d66732065f2925420d7f043d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/administrator/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/administrator/smartqueue/smartqueue/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_f275e9d58ecb08967b1cb430dcca6afd96d6ac94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/administrator/smartqueue/smartqueue/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/administrator/smartqueue/smartqueue/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_c20816ef414a67380e228d9aa968c96e00426be6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/administrator/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.0/1477ec5caf8319ab4b51eb43553cd66aa86fdea5/okhttp-2.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1477ec5caf8319ab4b51eb43553cd66aa86fdea5">
+        <dex dex="/Users/administrator/smartqueue/smartqueue/app/build/intermediates/pre-dexed/debug/okhttp-2.7.0_be72de0feb991d8168d9d110f35d2e06488c12ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/administrator/smartqueue/smartqueue/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/administrator/smartqueue/smartqueue/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_14dd5e808d26b5d76599f3c18aa54b69fc4de4ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/administrator/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-gson/2.0.0-beta2/392c3d09e0f5e7087544093cc0cb23bb9c7af5fa/converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="/Users/administrator/smartqueue/smartqueue/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0-beta2_3cc82858aa2647f358b0899f5269875ef88ad0bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/administrator/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta2/880d9e0997b2d1bfc98e0d121ced33ee5d04aac4/retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="/Users/administrator/smartqueue/smartqueue/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta2_4cc3e5eadbb7c0348fbdaf3a0888c1ffc4084c32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/administrator/smartqueue/smartqueue/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/administrator/smartqueue/smartqueue/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_784af61b37a31989e1567020eef588264d49b3bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/administrator/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/adapter-rxjava/2.0.0-beta2/3a233746381a03dbb0f5f3ed10b11c3e72dba499/adapter-rxjava-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3a233746381a03dbb0f5f3ed10b11c3e72dba499">
+        <dex dex="/Users/administrator/smartqueue/smartqueue/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.0.0-beta2_ccabf3e1175c48766029f8749e2b87d93e4f7185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/administrator/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.16/bdc5ca010675cd9385bdd3a28cf53ee88164424f/rxjava-1.0.16.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="bdc5ca010675cd9385bdd3a28cf53ee88164424f">
+        <dex dex="/Users/administrator/smartqueue/smartqueue/app/build/intermediates/pre-dexed/debug/rxjava-1.0.16_49228cd849e1467806d26295ca6c74b51421be36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/administrator/smartqueue/smartqueue/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="/Users/administrator/smartqueue/smartqueue/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.0.1_10185a48993b9fd27648f18f0a5e7e327a3af463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/administrator/smartqueue/smartqueue/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/administrator/smartqueue/smartqueue/app/build/intermediates/pre-dexed/debug/com.android.support-multidex-1.0.1_039efdd4f2bf616afc38e07fb5e62405c5572baa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/administrator/.gradle/caches/modules-2/files-2.1/org.java-websocket/Java-WebSocket/1.3.0/db2658f013fb163de4a99274c2eb9e17efe535d2/Java-WebSocket-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="/Users/administrator/smartqueue/smartqueue/app/build/intermediates/pre-dexed/debug/Java-WebSocket-1.3.0_9a34edf1b64e953cb2e9b40b7d8c46eec49a429f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/administrator/smartqueue/smartqueue/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/administrator/smartqueue/smartqueue/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.1.0_f86d29ba1b0a7ee8b6acc0dd7a011cf93872d28c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/administrator/smartqueue/smartqueue/app/libs/SanyiPosSDK-3.7.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d6325049fee2b9c132380fe0ded5197b85d21fa8">
+        <dex dex="/Users/administrator/smartqueue/smartqueue/app/build/intermediates/pre-dexed/debug/SanyiPosSDK-3.7.12_e5496fc4612be4016ababb8458ee5851b777320d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/administrator/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/administrator/smartqueue/smartqueue/app/build/intermediates/pre-dexed/debug/gson-2.4_4b7875c5476fe9abdf3bd140db052263a5af65ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/administrator/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/administrator/smartqueue/smartqueue/app/build/intermediates/pre-dexed/debug/okio-1.6.0_55ed56feca7279fb6e87e49b0821e6a41f66e231.jar" />
+    </item>
+
+</items>

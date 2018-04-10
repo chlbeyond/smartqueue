@@ -1,0 +1,60 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1000"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="9"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/tabitem_text_tabletype"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1人桌"
+                android:textSize="@dimen/main_activity_table_textsize" />
+
+            <TextView
+                android:id="@+id/tabitem_text_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/tabnumbernor"
+                android:text="0"
+                android:textColor="#fff"
+                android:textSize="@dimen/main_activity_table_textsize" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tabitem_textview_indicator"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@color/primarycolor"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.3"
+            android:background="#dadfe3" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_weight="1"
+        android:background="#dadfe3" />
+
+</LinearLayout>

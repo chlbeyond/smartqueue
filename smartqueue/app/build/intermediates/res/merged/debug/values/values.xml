@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="login_error_dialog">
+        <item>确定</item>
+        <item>取消</item>
+    </string-array>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="btn_bg_color">#ff5959</color>
+    <color name="btn_bg_pressed_color">#ffacac</color>
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_default_background">#FFDD4B39</color>
+    <color name="common_signin_btn_light_text_default">#FF737373</color>
+    <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_light_text_focused">#FF737373</color>
+    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
+    <color name="home_bar_text_normal">#6a6c6f</color>
+    <color name="home_bar_text_push">#808080</color>
+    <color name="lib_tab_normal">#B6B8B9</color>
+    <color name="lib_tab_selector">#808080</color>
+    <color name="list_item_press">#dedede</color>
+    <color name="primarycolor">#2B3D6D</color>
+    <color name="red">#E43F3E</color>
+    <color name="tab_normal">#8091a1</color>
+    <color name="tab_selector">#2b343d</color>
+    <color name="textnormal">#adadad</color>
+    <color name="white">#00000000</color>
+    <declare-styleable name="AdvancedPagerSlidingTabStrip"><attr format="color" name="apTabIndicatorColor"/><attr format="color" name="apTabUnderlineColor"/><attr format="color" name="apTabDividerColor"/><attr format="color" name="apTabTextSelectColor"/><attr format="dimension" name="apTabIndicatorHeight"/><attr format="dimension" name="apTabUnderlineHeight"/><attr format="dimension" name="apTabDividerPadding"/><attr format="dimension" name="apTabPaddingLeftRight"/><attr format="dimension" name="apTabPaddingTopBottom"/><attr format="dimension" name="apTabScrollOffset"/><attr format="reference" name="apTabBackground"/><attr format="boolean" name="apTabShouldExpand"/><attr format="boolean" name="apTabTextAllCaps"/><attr format="enum" name="apTabDrawMode"><enum name="normal" value="0"/><enum name="text" value="1"/></attr></declare-styleable>
+    <declare-styleable name="LoadingImageView"><attr format="enum" name="imageAspectRatioAdjust">
+            <enum name="none" value="0"/>
+            <enum name="adjust_width" value="1"/>
+            <enum name="adjust_height" value="2"/>
+        </attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
+    <declare-styleable name="PagerSlidingTabStrip"><attr format="color" name="pstsIndicatorColor"/><attr format="color" name="pstsUnderlineColor"/><attr format="color" name="pstsDividerColor"/><attr format="dimension" name="pstsIndicatorHeight"/><attr format="dimension" name="pstsUnderlineHeight"/><attr format="dimension" name="pstsDividerPadding"/><attr format="dimension" name="pstsTabPaddingLeftRight"/><attr format="dimension" name="pstsScrollOffset"/><attr format="reference" name="pstsTabBackground"/><attr format="boolean" name="pstsShouldExpand"/><attr format="boolean" name="pstsTextAllCaps"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="button_magin_left_right">25dp</dimen>
+    <dimen name="dialog_padding">25dp</dimen>
+    <dimen name="editmealpeoplecount_magin_left">20dp</dimen>
+    <dimen name="editquerynumber_magin_left">15dp</dimen>
+    <dimen name="editquerynumber_magin_top">8dp</dimen>
+    <dimen name="listview_item_call_text">20sp</dimen>
+    <dimen name="listview_item_height">80dp</dimen>
+    <dimen name="listview_item_magin_left">80dp</dimen>
+    <dimen name="login_button_text">32sp</dimen>
+    <dimen name="main_activity_edit_peoplencount">28sp</dimen>
+    <dimen name="main_activity_freetable">25sp</dimen>
+    <dimen name="main_activity_listview_number">35sp</dimen>
+    <dimen name="main_activity_listview_peoplecount">25sp</dimen>
+    <dimen name="main_activity_query_number">28sp</dimen>
+    <dimen name="main_activity_table_textsize">28sp</dimen>
+    <dimen name="main_activity_table_textsize_radius">8sp</dimen>
+    <dimen name="psts_dot_linelayout_h">23dp</dimen>
+    <dimen name="psts_dot_m_right">9dp</dimen>
+    <dimen name="psts_dot_m_top">7dp</dimen>
+    <dimen name="psts_dot_txt_size">10sp</dimen>
+    <dimen name="psts_dot_wh">8dp</dimen>
+    <dimen name="setting_back_textsize">30sp</dimen>
+    <dimen name="tab_number_magin_left_right">10dp</dimen>
+    <item name="id_tab_txt" type="id">888</item>
+    <item name="tag_position" type="id"/>
+    <integer name="google_play_services_version">8115000</integer>
+    <string name="action_settings">Settings</string>
+    <string name="alipay_url"/>
+    <string name="app_name">彩虹云宝排队</string>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <string name="cancel_permission_now">取消</string>
+    <string name="cloud_url">http://api.sanyipos.com/shop/</string>
+    <string name="common_android_wear_notification_needs_update_text"><ns1:g id="app_name">%1$s</ns1:g> requires an update to the Android Wear app.</string>
+    <string name="common_android_wear_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update the Android Wear app.</string>
+    <string msgid="6006316683626838685" name="common_android_wear_update_title">Update Android Wear</string>
+    <string name="common_google_play_services_api_unavailable_text"><ns1:g id="app_name">%1$s</ns1:g> requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by <ns1:g id="app_name">%1$s</ns1:g></string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_text"><ns1:g id="app_name">%1$s</ns1:g> relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are currently updating.</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="core_apps">配置服务器程序</string>
+    <string name="get_permission_failed">获取权限失败</string>
+    <string name="get_permission_successed">获取权限成功</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="login_error">登录错误</string>
+    <string name="no_write_permission">存储权限不可用</string>
+    <string name="open_permission_now">立即开启</string>
+    <string name="request_write_never_permission">本应用需要内存读取功能才能使用,请在-设置-应用管理-彩虹点菜宝-权限-中，允许使用\'存储\'权限来保存用户数据</string>
+    <string name="request_write_permission">请在-应用设置-权限-中，允许彩虹点菜宝使用\'存储\'权限来保存用户数据</string>
+    <string name="tenpay_url">http://pay.sanyipos.com//bill</string>
+    <string name="title_activity_fragment__atable">Fragment_Atable</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_out_show">OutShowActivity</string>
+    <string name="title_activity_self">SelfActivity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_setting2">Setting2Activity</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="ConfirmButton" parent="android:Widget.Button">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@drawable/login_button_text_color_selector</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:background">@drawable/confirm_button_selector</item>
+        <item name="android:layout_margin">5dp</item>
+    </style>
+    <style name="DialogTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:alertDialogStyle">@style/dialog</item>
+    </style>
+    <style name="LoadingDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否悬浮在activity上 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 模糊 -->
+        <item name="android:backgroundDimAmount">0.6</item>
+        <!-- 灰度 -->
+    </style>
+    <style name="LoginButton" parent="android:Widget.Button">
+        <item name="android:textColor">@drawable/login_button_text_color_selector</item>
+        <item name="android:textSize">@dimen/login_button_text</item>
+        <item name="android:background">@drawable/number_button_selector</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="OKButton" parent="android:Widget.Button">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:background">@drawable/ok_button_selector</item>
+        <item name="android:layout_margin">5dp</item>
+    </style>
+    <style name="dialog">
+        <item name="android:fullDark">@drawable/dialog_body</item>
+        <item name="android:topDark">@drawable/dialog_title</item>
+        <item name="android:centerDark">@drawable/dialog_body</item>
+        <item name="android:bottomDark">@drawable/dialog_footer</item>
+        <item name="android:fullBright">@drawable/dialog_body</item>
+        <item name="android:centerBright">@drawable/dialog_body</item>
+        <item name="android:topBright">@drawable/dialog_title</item>
+        <item name="android:bottomBright">@drawable/dialog_footer</item>
+        <item name="android:bottomMedium">@drawable/dialog_footer</item>
+        <item name="android:centerMedium">@drawable/dialog_body</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+    <style name="pagertab_style">
+        <item name="android:textSize">@dimen/listview_item_call_text</item>
+        <item name="apTabPaddingLeftRight">8dp</item>
+        <item name="apTabDrawMode">text</item>
+        <item name="apTabShouldExpand">false</item>
+        <item name="android:textColor">@drawable/tab_color_select</item>
+        <item name="apTabIndicatorColor">@color/home_bar_text_push</item>
+        <item name="apTabTextSelectColor">@color/home_bar_text_push</item>
+    </style>
+</resources>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SanyiPosSDK-3.7.12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/SanyiPosSDK-3.7.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

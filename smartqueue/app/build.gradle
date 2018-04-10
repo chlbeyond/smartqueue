@@ -1,0 +1,59 @@
+apply plugin: 'com.android.application'
+apply plugin: 'me.tatarka.retrolambda'
+apply plugin: 'com.neenbedankt.android-apt'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion '25.0.0'
+
+    useLibrary 'org.apache.http.legacy'
+    defaultConfig {
+        applicationId "com.go2smartphone.paidui"
+        minSdkVersion 14
+        targetSdkVersion 24
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    retrolambda {
+        javaVersion JavaVersion.VERSION_1_6
+    }
+}
+repositories {
+    maven { url 'https://jitpack.io' }
+}
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile files('libs/SanyiPosSDK-3.7.12.jar')
+    compile 'org.java-websocket:Java-WebSocket:1.3.0'
+    compile 'com.android.support:support-v4:24.0.0'
+    // Google
+    compile 'com.google.code.gson:gson:2.4'
+    compile 'com.android.support:multidex:1.0.1'
+    // square
+    compile 'com.squareup.okhttp:okhttp:2.7.0'
+    // retrofit
+    compile 'com.squareup.retrofit:retrofit:2.0.0-beta2'
+    compile 'com.squareup.retrofit:converter-gson:2.0.0-beta2'
+    compile 'com.squareup.okhttp:okhttp:2.7.0'
+    compile 'com.squareup.retrofit:adapter-rxjava:2.0.0-beta2'
+    // ReactiveX
+    compile 'io.reactivex:rxjava:1.0.16'
+    compile 'io.reactivex:rxandroid:1.0.1'
+    compile 'homhomlin.lib:apsts:1.4.0'
+
+//    compile('com.qianhub.sdk:SanyiPosSDK:3.4-SNAPSHOT') {
+//        exclude group: 'com.google.code.gson', module: 'gson'
+//        exclude group: 'org.json', module: 'json'
+//    }
+    compile 'com.google.android.gms:play-services-appindexing:8.1.0'
+}

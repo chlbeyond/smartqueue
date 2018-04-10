@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#2B343D">
+
+        <TextView
+            android:id="@+id/textView_main_title"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="6"
+            android:gravity="center_vertical"
+            android:textColor="#fff"
+            android:textSize="@dimen/main_activity_freetable" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:gravity="right">
+
+            <LinearLayout
+                android:id="@+id/LinearLayout_freeTable"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginRight="25dp"
+                android:clickable="true"
+                android:gravity="center_vertical"
+                android:onClick="clickButton">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="2"
+                    android:gravity="center_vertical">
+
+                    <TextView
+                        android:id="@+id/textView_main_free_number"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="15dp"
+                        android:text="26"
+                        android:textColor="#fff"
+                        android:textSize="@dimen/main_activity_freetable" />
+
+                    <ImageView
+                        android:id="@+id/imageView2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_toRightOf="@+id/textView_main_title"
+                        android:src="@drawable/free26" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textView_main_free"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    android:text="空台"
+                    android:textColor="#fff"
+                    android:textSize="@dimen/main_activity_freetable" />
+
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:visibility="gone"
+                android:id="@+id/LinearLayout_setting"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_toRightOf="@+id/linearLayout1"
+                android:clickable="true"
+                android:gravity="center_vertical"
+                android:onClick="clickButton">
+
+                <ImageView
+                    android:id="@+id/imageView3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/setting26" />
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="50dp"
+                    android:text="设置"
+                    android:textColor="#fff"
+                    android:textSize="@dimen/main_activity_freetable" />
+            </LinearLayout>
+        </LinearLayout>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:gravity="center"
+            android:id="@+id/tv_main_logout"
+            android:text="注销"
+            android:clickable="true"
+            android:onClick="clickButton"
+            android:textColor="#fff"
+            android:textSize="@dimen/main_activity_freetable"
+            android:layout_weight="3"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:background="#e5ebf0"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/LinerLayout_main_left"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="6"
+            android:background="@drawable/main_left_background"
+            android:orientation="vertical">
+
+            <com.lhh.apst.library.AdvancedPagerSlidingTabStrip
+                android:id="@+id/linearLayoutCookingMethod"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                style="@style/pagertab_style"
+                android:fillViewport="false" />
+
+
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/viewPager_main_activity"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="11"></android.support.v4.view.ViewPager>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout_main_right"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="3"
+            android:background="@drawable/main_left_background"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="2"
+                android:background="@drawable/querynumberbackground"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/LinearLayout_editquerynumber"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="@dimen/editquerynumber_magin_top"
+                    android:layout_marginLeft="@dimen/editquerynumber_magin_left"
+                    android:layout_marginRight="@dimen/editquerynumber_magin_left"
+                    android:layout_marginTop="@dimen/editquerynumber_magin_top"
+                    android:background="@drawable/text_editnumber_selector_search"
+                    android:clickable="true"
+                    android:onClick="clickButton">
+
+                    <ImageView
+                        android:id="@+id/imageView1"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="10dp"
+                        android:layout_weight="1"
+                        android:src="@drawable/search" />
+
+                    <TextView
+                        android:id="@+id/textView_main_query_number"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="15dp"
+                        android:layout_weight="15"
+                        android:gravity="center_vertical"
+                        android:hint="查询号码"
+                        android:textColor="#67788d"
+                        android:textSize="@dimen/main_activity_query_number"
+                         />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="8"
+                android:background="#fff"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/LinearLayout_editmealpeoplecount"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_marginLeft="@dimen/editmealpeoplecount_magin_left"
+                    android:layout_marginRight="@dimen/editmealpeoplecount_magin_left"
+                    android:layout_marginTop="5dp"
+                    android:layout_weight="1.2"
+                    android:background="@drawable/text_editnumber_noselector"
+                    android:clickable="true"
+                    android:gravity="center_vertical"
+                    android:onClick="clickButton"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textView_edit_peoplecount"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:hint="就餐人数"
+                        android:textColor="#67788d"
+                        android:textSize="@dimen/main_activity_edit_peoplencount"
+                        />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/LinearLayout_edit_phonenumber"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_marginLeft="@dimen/editmealpeoplecount_magin_left"
+                    android:layout_marginRight="@dimen/editmealpeoplecount_magin_left"
+                    android:layout_marginTop="5dp"
+                    android:layout_weight="1.2"
+                    android:background="@drawable/text_editnumber_selector"
+                    android:clickable="true"
+                    android:gravity="center_vertical"
+                    android:onClick="clickButton"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textView_edit_phonenumber"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:hint="手机号码"
+                        android:textColor="#67788d"
+                        android:textSize="@dimen/main_activity_edit_peoplencount"
+                        />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_below="@+id/textView_edit_phonenumber"
+                    android:layout_weight="6"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_weight="1">
+
+                        <Button
+                            android:id="@+id/s_button1"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="@dimen/button_magin_left_right"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/button_selector"
+                            android:onClick="clickButton"
+                            android:text="1"
+                            android:textColor="#fff"
+                            android:textSize="@dimen/main_activity_edit_peoplencount"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/s_button2"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/button_selector"
+                            android:onClick="clickButton"
+                            android:text="2"
+                            android:textColor="#fff"
+                            android:textSize="@dimen/main_activity_edit_peoplencount"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/s_button3"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="@dimen/button_magin_left_right"
+                            android:layout_weight="1"
+                            android:background="@drawable/button_selector"
+                            android:onClick="clickButton"
+                            android:text="3"
+                            android:textColor="#fff"
+                            android:textSize="@dimen/main_activity_edit_peoplencount"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_weight="1">
+
+                        <Button
+                            android:id="@+id/s_button4"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="@dimen/button_magin_left_right"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/button_selector"
+                            android:onClick="clickButton"
+                            android:text="4"
+                            android:textColor="#fff"
+                            android:textSize="@dimen/main_activity_edit_peoplencount"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/s_button5"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/button_selector"
+                            android:onClick="clickButton"
+                            android:text="5"
+                            android:textColor="#fff"
+                            android:textSize="@dimen/main_activity_edit_peoplencount"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/s_button6"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="@dimen/button_magin_left_right"
+                            android:layout_weight="1"
+                            android:background="@drawable/button_selector"
+                            android:onClick="clickButton"
+                            android:text="6"
+                            android:textColor="#fff"
+                            android:textSize="@dimen/main_activity_edit_peoplencount"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_weight="1">
+
+                        <Button
+                            android:id="@+id/s_button7"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="@dimen/button_magin_left_right"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/button_selector"
+                            android:onClick="clickButton"
+                            android:text="7"
+                            android:textColor="#fff"
+                            android:textSize="@dimen/main_activity_edit_peoplencount"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/s_button8"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/button_selector"
+                            android:onClick="clickButton"
+                            android:text="8"
+                            android:textColor="#fff"
+                            android:textSize="@dimen/main_activity_edit_peoplencount"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/s_button9"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="@dimen/button_magin_left_right"
+                            android:layout_weight="1"
+                            android:background="@drawable/button_selector"
+                            android:onClick="clickButton"
+                            android:text="9"
+                            android:textColor="#fff"
+                            android:textSize="@dimen/main_activity_edit_peoplencount"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_weight="1">
+
+                        <Button
+                            android:id="@+id/button_delete"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="@dimen/button_magin_left_right"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/button_selector"
+                            android:onClick="clickButton"
+                            android:text="ⓧ"
+                            android:textColor="#fff"
+                            android:textSize="@dimen/main_activity_edit_peoplencount" />
+
+                        <Button
+                            android:id="@+id/s_button0"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/button_selector"
+                            android:onClick="clickButton"
+                            android:text="0"
+                            android:textColor="#fff"
+                            android:textSize="@dimen/main_activity_edit_peoplencount"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/button_back"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="@dimen/button_magin_left_right"
+                            android:layout_weight="1"
+                            android:background="@drawable/button_selector"
+                            android:onClick="clickButton"
+                            android:text="←"
+                            android:textColor="#fff"
+                            android:textSize="@dimen/main_activity_edit_peoplencount" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginBottom="@dimen/editmealpeoplecount_magin_left"
+                android:layout_marginLeft="@dimen/button_magin_left_right"
+                android:layout_marginRight="@dimen/button_magin_left_right"
+                android:layout_marginTop="@dimen/editmealpeoplecount_magin_left"
+                android:layout_weight="1.2"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView_main_fetchnumber"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/button_selector"
+                    android:clickable="true"
+                    android:enabled="false"
+                    android:gravity="center"
+                    android:onClick="clickButton"
+                    android:text="取  号"
+                    android:textColor="#fff"
+                    android:textSize="@dimen/main_activity_edit_peoplencount"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

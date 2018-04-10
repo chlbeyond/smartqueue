@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * This file is part of DroidPHP
+  ~  *
+  ~  * (c) 2014 Shushant Kumar
+  ~  *
+  ~  * For the full copyright and license information, please view the LICENSE
+  ~  * file that was distributed with this source code.
+  ~  */
+-->
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- not yet implemented -->
+    <!--
+    <PreferenceCategory android:title="CONFIGURATIONS">
+        <CheckBoxPreference
+                android:title="Lock Wifi"
+                android:key="enable_lock_wifi"
+                android:summary="Keep wifi active when the server is running"
+                android:defaultValue="false"/>
+        <CheckBoxPreference
+                android:title="Screen Always On"
+                android:key="enable_screen_on"
+                android:summary="The screen never enter sleep mode when the server is running"
+                android:defaultValue="true"/>
+    </PreferenceCategory>
+    -->
+    <PreferenceCategory android:title="外显设置" >
+        <ListPreference
+            android:key="smartqueue_display_config"
+            android:title="设置外显播放内容" />
+        <ListPreference
+            android:key="smartqueue_display_next_video"
+            android:title="切换到下一个视频" />
+        <ListPreference
+            android:key="smartqueue_call_config"
+            android:title="设置叫号次数" />
+        <ListPreference
+            android:key="smartqueue_set_printer"
+            android:title="设置打印机" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

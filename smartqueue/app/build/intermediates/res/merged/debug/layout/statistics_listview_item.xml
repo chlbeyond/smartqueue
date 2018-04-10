@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="15dp" >
+
+        <TextView
+            android:id="@+id/textView_statistics_table_type"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="小桌"
+            android:textColor="#34353c"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView_statistics_fetch_number_count"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="取号桌数"
+            android:textColor="#16a4fa"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView_statistics_meal_table_count"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="就餐桌数"
+            android:textColor="#37c180"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView_statistics_meal_rate"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="就餐率"
+            android:textColor="#37c180"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView_statistics_leave_table_count"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="流失桌数"
+            android:textColor="#fe5c5c"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView_statistics_leave_rate"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="流失率"
+            android:textColor="#fe5c5c"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView_statistics_mean_wait"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="平均等位"
+            android:textColor="#34353c"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+</LinearLayout>

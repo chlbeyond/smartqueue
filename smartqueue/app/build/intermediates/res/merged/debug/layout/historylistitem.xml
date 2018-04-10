@@ -1,0 +1,105 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/listview_item_height"
+        android:layout_marginLeft="8dp"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/textView_history_past_number"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:text="A5"
+            android:textColor="#16a4fa"
+            android:textSize="@dimen/main_activity_listview_number" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingLeft="12dp" >
+
+            <TextView
+                android:id="@+id/textView_history_past_peoplecount"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="5人"
+                android:textColor="#8091a1"
+                android:textSize="@dimen/main_activity_listview_peoplecount" />
+
+            <TextView
+                android:id="@+id/textView_history_currentstate"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="已过号"
+                android:textColor="#ff0000"
+                android:textSize="@dimen/main_activity_listview_peoplecount" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/time" />
+
+            <TextView
+                android:id="@+id/textView_history_arrivetime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textColor="#b3b5b6"
+                android:textSize="@dimen/main_activity_listview_peoplecount" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textView_history_calltimes"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="3次"
+            android:textColor="#16a4fa"
+            android:textSize="@dimen/main_activity_listview_peoplecount" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.2"
+            android:gravity="center" >
+
+            <ImageView
+                android:id="@+id/imageView_history_callicon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/phone" />
+
+            <TextView
+                android:id="@+id/textView_history_phonenumber"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="18002591358"
+                android:textColor="#b3b5b6"
+                android:textSize="@dimen/main_activity_listview_peoplecount" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
