@@ -27,7 +27,7 @@ public class EmptyTableListAdapter extends BaseAdapter {
         this.list = parseEmptyTable(shoptables);
     }
 
-    public List<SeatEntity> parseEmptyTable(List<SeatEntity> tables) {
+    public List<SeatEntity> parseEmptyTable(List<SeatEntity> tables) {//筛选出空桌子
         List<SeatEntity> seatEntities = new ArrayList<>();
         for (SeatEntity seat : tables) {
             if (seat.state == 1) {

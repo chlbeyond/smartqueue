@@ -27,7 +27,6 @@ public class RegisteDataUtils {
 		registeData.setShop_id(sp.getLong(SmartPosPrivateKey.SP_RD_SHOPID, -1));
 		registeData.setAccess_code(sp.getString(SmartPosPrivateKey.SP_RD_ACCESSCODE, ""));
 		return registeData;
-
 	}
 
 	/**

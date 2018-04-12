@@ -58,8 +58,8 @@ public class PaiduiHttp {
 
         Retrofit retrofit = new Retrofit.Builder()
                 .baseUrl(PaiduiApi.BASE_URL)
-                .addCallAdapterFactory(RxJavaCallAdapterFactory.create())
-                .addConverterFactory(GsonConverterFactory.create(gson))
+                .addCallAdapterFactory(RxJavaCallAdapterFactory.create())//网络请求适配器 支持RxJava平台
+                .addConverterFactory(GsonConverterFactory.create(gson))//设置数据解析器
                 .client(okHttpClient)
                 .build();
         this.paiduiService = retrofit.create(PaiduiService.class);

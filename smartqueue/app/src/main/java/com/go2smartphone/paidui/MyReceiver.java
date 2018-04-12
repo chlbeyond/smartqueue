@@ -17,7 +17,7 @@ public class MyReceiver extends BroadcastReceiver {
     public void onReceive(Context context, Intent intent) {
         Log.d("```", "收到刷新广播");
 
-        msg.getMsg("noti");
+        msg.getMsg("noti"); //广播结合接口来实现一个回调来刷新历史队伍界面
     }
 
     interface MyMessage {

@@ -94,12 +94,12 @@ public class PaiduiListAdapter extends BaseAdapter {
         // TODO Auto-generated method stub+
         LayoutInflater inflater = LayoutInflater.from(context);
 
-        FetchTicketResult result = list.get(list.size() - 1 - position);
+        FetchTicketResult result = list.get(list.size() - 1 - position);//从后面拿起
         switch (result.state) {
             case UpdateStateParam.BEGIN:
                 view = inflater.inflate(R.layout.listviewitem, null);
                 if (position % 2 == 0) {
-                    view.setBackgroundColor(Color.parseColor("#ededed"));
+                    view.setBackgroundColor(Color.parseColor("#ededed"));//item的背景灰白相间
                 }
                 LinearLayout LinearLayout_beused = (LinearLayout) view.findViewById(R.id.LinearLayout_beused);
                 LinearLayout LinearLayout_meal = (LinearLayout) view.findViewById(R.id.LinearLayout_meal);
@@ -181,7 +181,7 @@ public class PaiduiListAdapter extends BaseAdapter {
                             dialog.dismiss();
                             notifyDataSetChanged();
                             activity.queryTicket();
-                            Intent intent=new Intent();
+                            Intent intent=new Intent();//似乎上面两条语句是更新界面，广播也是更新界面，似乎不需要？
                             intent.setAction("noti");
                             context.sendBroadcast(intent);
                         }
@@ -301,6 +301,5 @@ public class PaiduiListAdapter extends BaseAdapter {
                     }
 
                 });
-
     }
 }

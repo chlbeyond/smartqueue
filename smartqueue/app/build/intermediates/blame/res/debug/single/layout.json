@@ -1,7 +1,7 @@
 [
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\historylistitem.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\historylistitem.xml"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\activity_setting.xml"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow.xml",
@@ -12,28 +12,20 @@
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\emptyview.xml"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\empty_table_list.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\empty_table_list.xml"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_self.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\activity_self.xml"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_loading.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\dialog_loading.xml"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_connecthost.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\fragment_connecthost.xml"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment__atable.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\fragment__atable.xml"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\empty_table_list.xml",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\empty_table_list.xml"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading_dialog.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\loading_dialog.xml"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emptyview.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\emptyview.xml"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\download_apk.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\download_apk.xml"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\statistics_listview_item.xml",
@@ -44,28 +36,28 @@
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\download_apk.xml"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_self.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\activity_self.xml"
-    },
-    {
         "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_query_number.xml",
         "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\dialog_query_number.xml"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\agent_address_input.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\agent_address_input.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_dialog.xml",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\item_dialog.xml"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listviewitem.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\listviewitem.xml"
     },
     {
         "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order_operation_option.xml",
         "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\order_operation_option.xml"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_inputpassword.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\fragment_inputpassword.xml"
-    },
-    {
-        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_dialog.xml",
-        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\item_dialog.xml"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\historylistitem.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\historylistitem.xml"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\historylistitem.xml",
@@ -76,16 +68,24 @@
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\activity_out_show.xml"
     },
     {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\historylistitem_meal.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\historylistitem_meal.xml"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_connecthost.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\fragment_connecthost.xml"
+    },
+    {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listviewitem.xml",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\listviewitem.xml"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_deviceregistration.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\fragment_deviceregistration.xml"
-    },
-    {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabview.xml",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\tabview.xml"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_inputpassword.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\fragment_inputpassword.xml"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_self.xml",
@@ -96,16 +96,20 @@
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\download_apk.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\download_apk.xml"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\statistics_listview_item.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\statistics_listview_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_dialog.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\item_dialog.xml"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading_dialog.xml",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\loading_dialog.xml"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\historylistitem_meal.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\historylistitem_meal.xml"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment__history.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\fragment__history.xml"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\statistics.xml",
@@ -116,8 +120,8 @@
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\agent_address_input.xml"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_out_show.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\activity_out_show.xml"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_loading.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\dialog_loading.xml"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment__atable.xml",
@@ -132,24 +136,28 @@
         "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\statistics.xml"
     },
     {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading_dialog.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emptyview.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\emptyview.xml"
+    },
+    {
         "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\apk_update.xml",
         "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\apk_update.xml"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabview.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\tabview.xml"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\printdialog.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\printdialog.xml"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_deviceregistration.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\fragment_deviceregistration.xml"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_install_progress.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\dialog_install_progress.xml"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\popupwindow.xml"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
@@ -160,20 +168,12 @@
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\dialog_install_progress.xml"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment__atable.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\fragment__atable.xml"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_install_progress.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\dialog_install_progress.xml"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\apk_update.xml",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\apk_update.xml"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment__history.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\fragment__history.xml"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_dialog.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\item_dialog.xml"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_connecthost.xml",
@@ -184,28 +184,24 @@
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\order_operation_option.xml"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listviewitem.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\listviewitem.xml"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_out_show.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\activity_out_show.xml"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\agent_address_input.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\agent_address_input.xml"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\printdialog.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\printdialog.xml"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\popupwindow.xml"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabview.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\tabview.xml"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\printdialog.xml",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\printdialog.xml"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\activity_login.xml"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\statistics_listview_item.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\statistics_listview_item.xml"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\activity_setting.xml"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\historylistitem_meal.xml",
@@ -222,6 +218,10 @@
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_deviceregistration.xml",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\fragment_deviceregistration.xml"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\empty_table_list.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\layout\\empty_table_list.xml"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment__history.xml",

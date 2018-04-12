@@ -1,4 +1,7 @@
-#Fri Feb 02 15:04:02 CST 2018
-base.0=/Users/administrator/smartqueue/smartqueue/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/Users/administrator/smartqueue/smartqueue/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+#Tue Apr 10 11:49:54 CST 2018
+base.0=D\:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1d348b529a9842a585ed9d8a953e1830c3238a7c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b951a6dbc86d3817b59be27c64e6e3dc058c91c0\\classes.dex
+base.1=D\:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b951a6dbc86d3817b59be27c64e6e3dc058c91c0
+file.0=D\:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1d348b529a9842a585ed9d8a953e1830c3238a7c\\classes.dex

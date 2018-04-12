@@ -93,7 +93,7 @@ public class SanyiMainActivity extends FragmentActivity implements MyReceiver.My
     private LinearLayout LinearLayout_editphonenumber;
     private LinearLayout LinearLayout_editmealpeoplecount;
     private LinearLayout LinearLayout_editquerynumber;
-    private int edit = 0;
+    private int edit = 0;//标记区别 就餐人数0、手机号码1、查询号码2
     private String editString = "";
     private TextView textView_edit_phonenumber;
     private TextView textView_main_fetchnumber;
@@ -439,7 +439,7 @@ public class SanyiMainActivity extends FragmentActivity implements MyReceiver.My
         });
     }
 
-    public void queryTicket() {
+    public void queryTicket() {//网络请求所有队伍数据Ticket
         Subscription subscribe = PaiduiHttp.getInstance().getPaiduiService().queryTick()
                 .subscribeOn(Schedulers.io())
                 .observeOn(Schedulers.io())
@@ -469,31 +469,32 @@ public class SanyiMainActivity extends FragmentActivity implements MyReceiver.My
     }
 
     public void parseTicket(Ticket ticket) {
-        this.ticket = ticket;
-        List<FetchTicketResult> passLists = new ArrayList<>();
-        for (int i = 0; i < SanyiSDK.rest.queues.size(); i++) {
+        this.ticket = ticket;//将队伍数据保存在全局，查询时需要
+        List<FetchTicketResult> passLists = new ArrayList<>();//历史队伍数组
+        for (int i = 0; i < SanyiSDK.rest.queues.size(); i++) { //SanyiSDK.rest.queues.size()这个的值不包含历史队伍
             List<FetchTicketResult> mList = new ArrayList<>();
             for (FetchTicketResult tick : ticket.details) {
-                if (tick.queue == SanyiSDK.rest.queues.get(i).id) {
+                if (tick.queue == SanyiSDK.rest.queues.get(i).id) {//筛选出一个队伍的数据
                     if (tick.state == UpdateStateParam.BEGIN) {
                         mList.add(tick);
                     } else {
-                        passLists.add(tick);
+                        passLists.add(tick);  //历史队伍的值是由其他队伍数据生成的
                     }
                 }
             }
-            linearLayoutCookingMethod.showDot(i, Integer.toString(mList.size()));
+            linearLayoutCookingMethod.showDot(i, Integer.toString(mList.size()));//设置并显示队伍小红点显示的数据
 //            ((FragmentTable) mFragments.get(i)).init();
-            ((FragmentTable) mFragments.get(i)).setTickets(mList);
+            ((FragmentTable) mFragments.get(i)).setTickets(mList);//更新队伍数据
         }
-        ((FragmentHistory) mFragments.get(mFragments.size() - 1)).setTickets(passLists);
-        if (mViewPager.getCurrentItem() < mFragments.size() - 1) {
+        ((FragmentHistory) mFragments.get(mFragments.size() - 1)).setTickets(passLists);//更新历史队伍数据
+
+        if (mViewPager.getCurrentItem() < mFragments.size() - 1) {//更新界面
             ((FragmentTable) mFragments.get(mViewPager.getCurrentItem())).refresh();
         } else {
             ((FragmentHistory) mFragments.get(mViewPager.getCurrentItem())).refresh();
         }
         int emptyTable = 0;
-        for (SeatEntity seat : SanyiSDK.rest.operationData.shopTables) {
+        for (SeatEntity seat : SanyiSDK.rest.operationData.shopTables) {//空台数
             if (seat.state == 1) {
                 emptyTable++;
             }
@@ -501,10 +502,11 @@ public class SanyiMainActivity extends FragmentActivity implements MyReceiver.My
         textViewFreeTable.setText(Integer.toString(emptyTable));
     }
 
-    public List<FetchTicketResult> findTick(String find) {
+    //如果不输入数值就查询，那么查到的就是没有输入电话的
+    public List<FetchTicketResult> findTick(String find) {//查询号码
         List<FetchTicketResult> mList = new ArrayList<>();
         for (FetchTicketResult tick : ticket.details) {
-            if (String.valueOf(tick.tick).equals(find) || tick.phone.equals(find)) {
+            if (String.valueOf(tick.tick).equals(find) || tick.phone.equals(find)) {//此时tick.phone与find可能都是空的，所以也为true
                 mList.add(tick);
             }
         }
@@ -512,7 +514,7 @@ public class SanyiMainActivity extends FragmentActivity implements MyReceiver.My
     }
 
 
-    public void addSound(String t) {
+    public void addSound(String t) {//叫号
         try {
             broadcastTexts.put(t);
         } catch (InterruptedException e) {
@@ -537,15 +539,16 @@ public class SanyiMainActivity extends FragmentActivity implements MyReceiver.My
         }
         historyFragment = new FragmentHistory();
         mFragments.add(historyFragment);
-        myPagerAdapter = new PagerAdapter(getSupportFragmentManager(),mFragments);
+        myPagerAdapter = new PagerAdapter(getSupportFragmentManager(), mFragments);
         mViewPager.setAdapter(myPagerAdapter);
-        mViewPager.setOffscreenPageLimit(SanyiSDK.rest.queues.size());
-        mViewPager.setOnPageChangeListener(new ViewPager.OnPageChangeListener() {
+        mViewPager.setOffscreenPageLimit(SanyiSDK.rest.queues.size()); //SanyiSDK.rest.queues.size()这个的值不包含历史队伍
+        mViewPager.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
             @Override
             public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
 
             }
 
+            //每次滑动viewpager都要请求一次数据
             @Override
             public void onPageSelected(int position) {
                 queryTicket();
@@ -582,7 +585,7 @@ public class SanyiMainActivity extends FragmentActivity implements MyReceiver.My
 
 
     @Override
-    public void getMsg(String msg) {
+    public void getMsg(String msg) {//广播后回调
         if (historyFragment != null)
             historyFragment.refresh();
     }
@@ -591,9 +594,10 @@ public class SanyiMainActivity extends FragmentActivity implements MyReceiver.My
     public class PagerAdapter extends FragmentPagerAdapter implements AdvancedPagerSlidingTabStrip.TipsProvider {
 
         private List<Fragment> mFragmentList;
-        public PagerAdapter(FragmentManager fm,List<Fragment> list) {
+
+        public PagerAdapter(FragmentManager fm, List<Fragment> list) {
             super(fm);
-            this.mFragmentList=list;
+            this.mFragmentList = list;
         }
 
         @Override
@@ -621,16 +625,19 @@ public class SanyiMainActivity extends FragmentActivity implements MyReceiver.My
             }
         }
 
+        //该方法用于设置小圆点的相对位置
         @Override
         public int[] getTipsRule(int position) {
             return new int[0];
         }
 
+        //该方法用于设置小圆点在 tab 中的间距大小
         @Override
         public Margins getTipsMargins(int position) {
             return new Margins(10, 15, 15, 15);
         }
 
+        //该方法用于设置小圆点的背景，默认为红色圆角图
         @Override
         public Drawable getTipsDrawable(int position) {
             return null;
@@ -784,14 +791,14 @@ public class SanyiMainActivity extends FragmentActivity implements MyReceiver.My
                 LinearLayout_editphonenumber.setBackgroundDrawable(getResources().getDrawable(R.drawable.text_editnumber_selector));
                 LinearLayout_editquerynumber.setBackground(getResources().getDrawable(R.drawable.text_editnumber_noselector_search));
                 edit = 2;
-                editString = textView_main_query_number.getText().toString();
                 textView_main_fetchnumber.setText("查  询");
                 textView_edit_peoplecount.setText("");
                 textView_edit_phonenumber.setText("");
                 textView_main_query_number.setText("");
+                editString = textView_main_query_number.getText().toString();
                 break;
             case R.id.textView_main_fetchnumber:
-                if (edit != 2) {
+                if (edit != 2) {//取号
                     if (!textView_edit_peoplecount.getText().toString().isEmpty()) {
                         int count = Integer.valueOf(textView_edit_peoplecount.getText().toString());
                         FetchTicketParam param = new FetchTicketParam();
@@ -832,7 +839,7 @@ public class SanyiMainActivity extends FragmentActivity implements MyReceiver.My
                     LinearLayout_editmealpeoplecount.setBackgroundDrawable(getResources().getDrawable(R.drawable.text_editnumber_noselector));
                     LinearLayout_editphonenumber.setBackgroundDrawable(getResources().getDrawable(R.drawable.text_editnumber_selector));
                     textView_main_fetchnumber.setEnabled(false);
-                } else {
+                } else {//查询号码
                     List<FetchTicketResult> ticketResults = findTick(textView_main_query_number.getText().toString());
                     if (ticketResults.size() == 0) {
                         Toast.makeText(this, "找不到该号码", Toast.LENGTH_SHORT).show();
@@ -879,19 +886,19 @@ public class SanyiMainActivity extends FragmentActivity implements MyReceiver.My
     }
 
     public void appendNumber(String inNumb) {
-        if (edit == 0) {
-            if (editString.length() < 2) {
+        if (edit == 0) {//0 表示输入就餐人数
+            if (editString.length() < 2) { //就餐人数不能超过两位数
                 editString = editString + inNumb;
                 setText();
             }
-        } else {
+        } else {//输入手机号或查询号
             editString = editString + inNumb;
             setText();
         }
 
     }
 
-    public static void sendMessage(Object o, Context context) {
+    public static void sendMessage(Object o, Context context) {//不清楚这个方法做什么
         new Thread(() -> {
             DatagramSocket clientSocket;
             try {
@@ -917,14 +924,14 @@ public class SanyiMainActivity extends FragmentActivity implements MyReceiver.My
     }
 
     public void setText() {
-        if (edit == 0) {
+        if (edit == 0) {//就餐人数
             if (editString.length() < 3) {
                 textView_edit_peoplecount.setText(editString);
 
                 if (editString.length() != 0
                         && Integer.valueOf(editString) != 0
                         && Integer.valueOf(editString) <= SanyiSDK.rest.queues.get(SanyiSDK.rest.queues.size() - 1).maxSize) {
-                    textView_main_fetchnumber.setEnabled(true);
+                    textView_main_fetchnumber.setEnabled(true);//输入的就餐人数符合时才能取号
                     if (isPhoneNumber(textView_edit_phonenumber.getText().toString()) && !textView_edit_peoplecount.getText().toString().isEmpty()) {
                         textView_main_fetchnumber.setEnabled(true);
                     }

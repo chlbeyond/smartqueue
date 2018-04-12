@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\menu\\out_show.xml",
-        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\menu\\out_show.xml"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\menu\\out_show.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\menu\\out_show.xml"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\menu\\self.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\menu\\self.xml"
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\menu\\out_show.xml",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\menu\\out_show.xml"
     },
     {
         "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
@@ -16,32 +16,28 @@
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\menu\\fragment__atable.xml"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\menu\\out_show.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\menu\\out_show.xml"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\menu\\login.xml"
-    },
-    {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\menu\\setting2.xml",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\menu\\setting2.xml"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\menu\\setting2.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\menu\\setting2.xml"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\menu\\self.xml",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\menu\\self.xml"
     },
     {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\menu\\setting.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\menu\\setting.xml"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\menu\\self.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\menu\\self.xml"
+    },
+    {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\menu\\login.xml"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\menu\\setting.xml",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\menu\\setting.xml"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\menu\\setting2.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\menu\\setting2.xml"
     },
     {
         "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fragment__atable.xml",
@@ -54,5 +50,9 @@
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\menu\\login.xml"
     }
 ]

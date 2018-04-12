@@ -1,31 +1,35 @@
 [
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\beused.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\beused.png"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_pwd_select.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\login_pwd_select.png"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lef.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\lef.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_history.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\call_history.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_cancel_select.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\login_cancel_select.png"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_cancel.png",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\login_cancel.png"
     },
     {
-        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\phone.png",
-        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\phone.png"
-    },
-    {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sh.png",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\sh.png"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\phone.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\phone.png"
+        "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\phone.png",
+        "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\phone.png"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_cancel_select.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\login_cancel_select.png"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabs_pattern.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\tabs_pattern.png"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_ic_googleplayservices.png",
@@ -36,24 +40,28 @@
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_full_open_on_phone.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-hdpi\\common_full_open_on_phone.png"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\table_available.9.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\table_available.9.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setting26.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\setting26.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\time.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\time.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_delete.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\login_delete.png"
     },
     {
         "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\number_bg_select.png",
         "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\number_bg_select.png"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sh.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\sh.png"
-    },
-    {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\number_bg_normal.png",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\number_bg_normal.png"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_history.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\call_history.png"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\self.png",
@@ -64,12 +72,36 @@
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\beused.png"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabs_pattern.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\tabs_pattern.png"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\paidui_login_logo.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\paidui_login_logo.png"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\free26.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\free26.png"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\line.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\line.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\number_back_white.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\number_back_white.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\spinner_outer.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\spinner_outer.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setting.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_delete_select.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\login_delete_select.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\line_blue3.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\line_blue3.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_full_open_on_phone.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-hdpi\\common_full_open_on_phone.png"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\line_blue3.png",
@@ -96,48 +128,48 @@
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\login_delete.png"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\table_available.9.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\table_available.9.png"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\number_bg_normal.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\number_bg_normal.png"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_pwd_normal.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\login_pwd_normal.png"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\free26.png",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\free26.png"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\spinner_inner.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\spinner_inner.png"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_delete_select.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\login_delete_select.png"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setting.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\setting.png"
-    },
-    {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lef.png",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\lef.png"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lef.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\lef.png"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\self.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\self.png"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\table_available.9.png",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\table_available.9.png"
     },
     {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\callnumber.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\callnumber.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\call_history.png",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\call_history.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\spinner_inner.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\spinner_inner.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\phone.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\phone.png"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg.png",
@@ -172,60 +204,36 @@
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\meal.png"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\load.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\load.png"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_cancel.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\login_cancel.png"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\number_back_white.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\number_back_white.png"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\freetable.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\freetable.png"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sh.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\sh.png"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\self.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\self.png"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\line_blue3.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\line_blue3.png"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_cancel.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\login_cancel.png"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\number_delete_white.png",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\number_delete_white.png"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\linewidth.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\linewidth.png"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\number_delete_white.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\number_delete_white.png"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\paidui_login_logo.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\paidui_login_logo.png"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_ic_googleplayservices.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\number_bg_select.png",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\number_bg_select.png"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\number_bg_normal.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\number_bg_normal.png"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\meal.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\meal.png"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\beused.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\beused.png"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_full_open_on_phone.png",
@@ -236,24 +244,24 @@
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\login_delete_select.png"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\spinner_outer.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\spinner_outer.png"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\free26.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\free26.png"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_pwd_select.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\login_pwd_select.png"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\search.png"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\callnumber.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\callnumber.png"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabs_pattern.png",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\tabs_pattern.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\meal.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\meal.png"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search.png",
@@ -264,32 +272,28 @@
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\login_cancel_select.png"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_delete.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\login_delete.png"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\load.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\load.png"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_ic_googleplayservices.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\number_delete_white.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\number_delete_white.png"
+    },
+    {
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\linewidth.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\linewidth.png"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\line.png",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\line.png"
     },
     {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\time.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\time.png"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setting26.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\setting26.png"
+        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\freetable.png",
+        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\freetable.png"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\spinner_inner.png",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\spinner_inner.png"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\line.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\line.png"
     },
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setting26.png",
@@ -298,9 +302,5 @@
     {
         "merged": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\callnumber.png",
         "source": "D:\\AndroidProject\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\callnumber.png"
-    },
-    {
-        "merged": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_pwd_normal.png",
-        "source": "D:\\Users\\administrator\\smartqueue\\smartqueue\\app\\src\\main\\res\\drawable-hdpi\\login_pwd_normal.png"
     }
 ]

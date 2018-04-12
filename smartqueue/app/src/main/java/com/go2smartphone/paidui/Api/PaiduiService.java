@@ -30,10 +30,10 @@ public interface PaiduiService {
     Observable<RegisterResult> register(@Body DeviceregisterParams params);
 
     @GET("rest")
-    Observable<Rest> downLoadRest();
+    Observable<Rest> downLoadRest();//获取整个餐厅数据Rest
 
     @POST("queue")
-    Observable<FetchTicketResult> fetchTick(@Body FetchTicketParam params);
+    Observable<FetchTicketResult> fetchTick(@Body FetchTicketParam params);//取号
 
     @GET("realtime/{time}")
     Observable<OperationData> polling(@Path("time") Long time);
@@ -42,5 +42,5 @@ public interface PaiduiService {
     Observable<Ticket> queryTick();
 
     @POST("queue/{detail}")
-    Observable<UpdateStateResult> updateTick(@Path("detail") Long detial, @Body UpdateStateParam params);
+    Observable<UpdateStateResult> updateTick(@Path("detail") Long detial, @Body UpdateStateParam params);//过号或就餐
 }

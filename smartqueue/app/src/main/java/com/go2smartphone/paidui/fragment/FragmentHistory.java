@@ -41,6 +41,7 @@ public class FragmentHistory extends Fragment {
 
     public void refresh() {
         if (mAdapter != null) {
+            //按创建时间排序，先创建的在后面
             Collections.sort(list, (fetchTicketResult, t1) -> fetchTicketResult.createon.compareTo(t1.createon) * -1);
             mAdapter.notifyDataSetChanged();
         }

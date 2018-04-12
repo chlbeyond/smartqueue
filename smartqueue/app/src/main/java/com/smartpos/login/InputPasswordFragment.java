@@ -105,7 +105,7 @@ public class InputPasswordFragment extends Fragment implements OnClickListener {
     private static final int DOWN_FINISH = 2;// 用于区分下载完成
     private static final int POSINSTALL = 3;// 用于区分下载完成
     private static final int START_PRINT_FAIL = 4;
-    private HashMap<String, String> hashMap;// 存储跟心版本的xml信息
+    private HashMap<String, String> hashMap;// 存储更新版本的xml信息
     private String fileSavePath;// 下载新apk的厨房地点
     private int progress;// 获取新apk的下载数据量,更新下载滚动条
     private boolean cancelUpdate = false;// 是否取消下载
@@ -162,7 +162,7 @@ public class InputPasswordFragment extends Fragment implements OnClickListener {
             public void onFocusChange(View v, boolean hasFocus) {
                 // TODO Auto-generated method stub
                 if (!editRFID.hasFocus()) {
-                    editRFID.requestFocus();
+                    editRFID.requestFocus();//要一直保持获得焦点，界面好看
                 }
             }
 

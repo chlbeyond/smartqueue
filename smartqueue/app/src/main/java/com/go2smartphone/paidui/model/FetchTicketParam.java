@@ -3,6 +3,7 @@ package com.go2smartphone.paidui.model;
 /**
  * Created by ss on 2016/7/22.
  */
+//取号要传给后台的数据
 public class FetchTicketParam {
 
     public int getCount() {

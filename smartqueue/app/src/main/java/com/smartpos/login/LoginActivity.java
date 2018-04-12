@@ -195,7 +195,7 @@ public class LoginActivity extends FragmentActivity {
     }
 
 
-    public void showHostFragment(){
+    public void showHostFragment(){//输入主机地址
         loginFragmentManager = getSupportFragmentManager();
         loginFragmentManager.beginTransaction().replace(R.id.fragment_login, new ConnectHostFragment()).commit();
     }
